@@ -8,6 +8,7 @@ class Stack
 {
 public:
     vector<char> vec;
+    vector<int>cal;
 
     void push(char c)
     {
@@ -58,7 +59,7 @@ public:
             {
                 push(c);
             }
-            else if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
+            else if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || isdigit(c))
             {
                 result += c;
             }
@@ -90,12 +91,41 @@ public:
         }
         return result;
     }
+
+    int calc(string s){
+        string s2 = infixtopostfix(s);
+        int result;
+        int op1;
+        int op2;
+        vec.clear();
+
+        for(char c : s2)
+        {
+            if(isdigit(c))
+            {
+                cal.push_back(c - '0');
+            }
+            else{
+                op2 = cal.back() ; cal.pop_back();
+                op1 = cal.back() ; cal.pop_back();
+
+
+            if (c == '+') cal.push_back(op1 + op2) ;
+            else if (c == '-') cal.push_back(op1 - op2);
+            else if (c == '*') cal.push_back(op1 * op2);
+            else if (c == '/') cal.push_back(op1 / op2);
+            }
+        }
+        result = cal.back();
+        return result;
+        
+    }
 };
 
 int main()
 {
     Stack s;
-    cout << s.infixtopostfix("a+b-(c*d)");
+    cout << s.calc("8/4+2");
 
     return 0;
 }
