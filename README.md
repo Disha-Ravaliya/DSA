@@ -7,6 +7,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Disha-Ravaliya/DSA/tree/master/0014-longest-common-prefix) |
+| [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -15,4 +16,12 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Disha-Ravaliya/DSA/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
