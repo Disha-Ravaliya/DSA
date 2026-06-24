@@ -1,27 +1,26 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        if(nums.empty()) return 0 ;
+        int low = 0;
+        int high = nums.size() - 1;
         
-        int len = nums.size();
-        
-        for(int i = 0 ; i <len ; i++){
-
-            if(nums[i] == target){
-                return i ;
+        while (low <= high) {
+            // Find the middle element safely to prevent overflow
+            int mid = low + (high - low) / 2;
+            
+            if (nums[mid] == target) {
+                return mid; // Found the exact target!
+            } 
+            else if (nums[mid] < target) {
+                low = mid + 1; // Target is in the right half
+            } 
+            else {
+                high = mid - 1; // Target is in the left half
             }
-            
-            
-
-            
         }
-        for(int j =0 ;j <len ; j++){
-            if(nums[j] >target){
-                return j;
-            }
-            
-        }
-        return len;
         
+        // If the target isn't found, 'low' will naturally point 
+        // to the exact index where the target should be inserted!
+        return low;
     }
 };
