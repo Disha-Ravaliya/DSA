@@ -9,6 +9,7 @@ solve dsa que. in leetcode
 | [0014-longest-common-prefix](https://github.com/Disha-Ravaliya/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
@@ -51,4 +52,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
