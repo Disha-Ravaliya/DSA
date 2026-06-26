@@ -10,6 +10,8 @@
  * };
  */
 class Solution {
+
+    // here 2 pointer so sorted array needed so i can use inorder not pre , so use pre and also sort them
 public:
     void preorder(TreeNode* root , vector<int> &v){
         if(root == nullptr) {return;}
