@@ -59,4 +59,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Disha-Ravaliya/DSA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
