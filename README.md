@@ -18,6 +18,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Disha-Ravaliya/DSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -53,6 +54,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
