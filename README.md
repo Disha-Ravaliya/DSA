@@ -56,6 +56,7 @@ solve dsa que. in leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
@@ -91,4 +92,16 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
