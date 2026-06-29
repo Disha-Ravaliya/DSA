@@ -70,6 +70,7 @@ solve dsa que. in leetcode
 ## Database
 |  |
 | ------- |
+| [0182-duplicate-emails](https://github.com/Disha-Ravaliya/DSA/tree/master/0182-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Disha-Ravaliya/DSA/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/Disha-Ravaliya/DSA/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Disha-Ravaliya/DSA/tree/master/0595-big-countries) |
