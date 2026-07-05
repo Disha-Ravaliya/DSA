@@ -7,6 +7,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Disha-Ravaliya/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Disha-Ravaliya/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
@@ -35,6 +36,7 @@ solve dsa que. in leetcode
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Disha-Ravaliya/DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
@@ -54,6 +56,7 @@ solve dsa que. in leetcode
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Disha-Ravaliya/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
