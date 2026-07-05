@@ -14,6 +14,7 @@ solve dsa que. in leetcode
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0283-move-zeroes](https://github.com/Disha-Ravaliya/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ solve dsa que. in leetcode
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Disha-Ravaliya/DSA/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
