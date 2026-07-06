@@ -15,6 +15,7 @@ solve dsa que. in leetcode
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Disha-Ravaliya/DSA/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -45,6 +46,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -112,4 +114,16 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
