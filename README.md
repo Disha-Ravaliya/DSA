@@ -21,6 +21,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Disha-Ravaliya/DSA/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/Disha-Ravaliya/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
 ## Trie
@@ -30,6 +31,7 @@ solve dsa que. in leetcode
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Disha-Ravaliya/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
@@ -44,6 +46,7 @@ solve dsa que. in leetcode
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Disha-Ravaliya/DSA/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
