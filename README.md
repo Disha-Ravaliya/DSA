@@ -27,6 +27,7 @@ solve dsa que. in leetcode
 | [0344-reverse-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0541-reverse-string-ii) |
+| [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 ## Trie
 |  |
 | ------- |
@@ -140,4 +141,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
