@@ -28,6 +28,7 @@ solve dsa que. in leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0541-reverse-string-ii) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
+| [3330-find-the-original-typed-string-i](https://github.com/Disha-Ravaliya/DSA/tree/master/3330-find-the-original-typed-string-i) |
 ## Trie
 |  |
 | ------- |
