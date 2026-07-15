@@ -86,6 +86,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 ## Database
 |  |
 | ------- |
@@ -145,5 +146,6 @@ solve dsa que. in leetcode
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 <!---LeetCode Topics End-->
