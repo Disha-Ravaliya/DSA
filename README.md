@@ -81,10 +81,12 @@ solve dsa que. in leetcode
 | ------- |
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
+| [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 ## Database
