@@ -17,6 +17,7 @@ solve dsa que. in leetcode
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Disha-Ravaliya/DSA/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
 | ------- |
@@ -87,6 +88,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 ## Database
