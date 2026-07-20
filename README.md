@@ -123,6 +123,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -152,4 +153,8 @@ solve dsa que. in leetcode
 | ------- |
 | [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
