@@ -22,6 +22,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Disha-Ravaliya/DSA/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Disha-Ravaliya/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
@@ -69,6 +70,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0015-3sum](https://github.com/Disha-Ravaliya/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
@@ -157,4 +159,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0707-design-linked-list) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
