@@ -18,6 +18,7 @@ solve dsa que. in leetcode
 | [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Disha-Ravaliya/DSA/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
+| [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## String
 |  |
@@ -146,6 +147,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 ## Monotonic Queue
 |  |
 | ------- |
