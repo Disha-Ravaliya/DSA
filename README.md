@@ -20,6 +20,7 @@ solve dsa que. in leetcode
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ solve dsa que. in leetcode
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -149,6 +151,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
