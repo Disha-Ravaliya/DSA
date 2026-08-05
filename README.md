@@ -30,6 +30,7 @@ solve dsa que. in leetcode
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Disha-Ravaliya/DSA/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/Disha-Ravaliya/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Disha-Ravaliya/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
@@ -103,6 +104,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -168,11 +170,13 @@ solve dsa que. in leetcode
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 ## Design
