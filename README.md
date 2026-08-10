@@ -23,6 +23,7 @@ solve dsa que. in leetcode
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -39,6 +40,7 @@ solve dsa que. in leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Disha-Ravaliya/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0541-reverse-string-ii) |
+| [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/Disha-Ravaliya/DSA/tree/master/3330-find-the-original-typed-string-i) |
 ## Trie
@@ -55,6 +57,7 @@ solve dsa que. in leetcode
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
+| [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 ## Sorting
 |  |
 | ------- |
