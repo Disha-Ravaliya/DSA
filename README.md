@@ -12,6 +12,7 @@ solve dsa que. in leetcode
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0220-contains-duplicate-iii) |
@@ -135,6 +136,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
@@ -142,6 +144,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -220,5 +223,10 @@ solve dsa que. in leetcode
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
