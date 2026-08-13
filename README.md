@@ -42,6 +42,7 @@ solve dsa que. in leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Disha-Ravaliya/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0541-reverse-string-ii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [1768-merge-strings-alternately](https://github.com/Disha-Ravaliya/DSA/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
@@ -116,6 +117,7 @@ solve dsa que. in leetcode
 | [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
@@ -233,4 +235,12 @@ solve dsa que. in leetcode
 | ------- |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
