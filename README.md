@@ -115,6 +115,7 @@ solve dsa que. in leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Disha-Ravaliya/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Math
 |  |
 | ------- |
@@ -255,4 +256,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Disha-Ravaliya/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
