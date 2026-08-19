@@ -40,6 +40,7 @@ solve dsa que. in leetcode
 | [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Disha-Ravaliya/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Disha-Ravaliya/DSA/tree/master/0125-valid-palindrome) |
+| [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Disha-Ravaliya/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
@@ -60,6 +61,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Disha-Ravaliya/DSA/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Disha-Ravaliya/DSA/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Disha-Ravaliya/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -156,6 +158,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Disha-Ravaliya/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
@@ -266,5 +269,10 @@ solve dsa que. in leetcode
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Disha-Ravaliya/DSA/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
