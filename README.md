@@ -46,6 +46,7 @@ solve dsa que. in leetcode
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0433-minimum-genetic-mutation](https://github.com/Disha-Ravaliya/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0459-repeated-substring-pattern](https://github.com/Disha-Ravaliya/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0541-reverse-string-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -67,6 +68,7 @@ solve dsa que. in leetcode
 | [0219-contains-duplicate-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
+| [0433-minimum-genetic-mutation](https://github.com/Disha-Ravaliya/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
@@ -162,6 +164,7 @@ solve dsa que. in leetcode
 | [0127-word-ladder](https://github.com/Disha-Ravaliya/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
+| [0433-minimum-genetic-mutation](https://github.com/Disha-Ravaliya/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -271,6 +274,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Disha-Ravaliya/DSA/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/Disha-Ravaliya/DSA/tree/master/0433-minimum-genetic-mutation) |
 ## Backtracking
 |  |
 | ------- |
