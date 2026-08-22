@@ -52,6 +52,7 @@ solve dsa que. in leetcode
 | [0541-reverse-string-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0541-reverse-string-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
+| [1446-consecutive-characters](https://github.com/Disha-Ravaliya/DSA/tree/master/1446-consecutive-characters) |
 | [1768-merge-strings-alternately](https://github.com/Disha-Ravaliya/DSA/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/Disha-Ravaliya/DSA/tree/master/3330-find-the-original-typed-string-i) |
