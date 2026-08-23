@@ -26,6 +26,7 @@ solve dsa que. in leetcode
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0905-sort-array-by-parity](https://github.com/Disha-Ravaliya/DSA/tree/master/0905-sort-array-by-parity) |
+| [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -179,6 +180,7 @@ solve dsa que. in leetcode
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -267,6 +269,7 @@ solve dsa que. in leetcode
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
+| [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 ## Euclidean Algorithm
 |  |
 | ------- |
