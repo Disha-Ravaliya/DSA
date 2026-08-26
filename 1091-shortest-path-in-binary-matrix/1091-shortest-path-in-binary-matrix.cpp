@@ -4,7 +4,7 @@ public:
 
         int n = grid.size();
 
-        // Start or end is blocked
+        
         if(grid[0][0] == 1 || grid[n-1][n-1] == 1)
             return -1;
 
@@ -27,7 +27,7 @@ public:
                 auto [r, c] = q.front();
                 q.pop();
 
-                // Reached destination
+                
                 if(r == n-1 && c == n-1)
                     return steps;
 
