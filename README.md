@@ -36,6 +36,7 @@ solve dsa que. in leetcode
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Disha-Ravaliya/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ solve dsa que. in leetcode
 | [0752-open-the-lock](https://github.com/Disha-Ravaliya/DSA/tree/master/0752-open-the-lock) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ solve dsa que. in leetcode
 | [0104-maximum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -170,6 +173,7 @@ solve dsa que. in leetcode
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -190,6 +194,7 @@ solve dsa que. in leetcode
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -265,12 +270,14 @@ solve dsa que. in leetcode
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Disha-Ravaliya/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Matrix
 |  |
 | ------- |
