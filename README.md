@@ -31,6 +31,7 @@ solve dsa que. in leetcode
 | [0905-sort-array-by-parity](https://github.com/Disha-Ravaliya/DSA/tree/master/0905-sort-array-by-parity) |
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -174,6 +175,7 @@ solve dsa que. in leetcode
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
+| [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
@@ -194,6 +196,7 @@ solve dsa que. in leetcode
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Search Tree
@@ -278,6 +281,7 @@ solve dsa que. in leetcode
 | [0130-surrounded-regions](https://github.com/Disha-Ravaliya/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Matrix
 |  |
@@ -288,6 +292,7 @@ solve dsa que. in leetcode
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Euclidean Algorithm
 |  |
