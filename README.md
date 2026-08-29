@@ -195,6 +195,7 @@ solve dsa que. in leetcode
 | [0752-open-the-lock](https://github.com/Disha-Ravaliya/DSA/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -242,6 +243,7 @@ solve dsa que. in leetcode
 | [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Simulation
 |  |
@@ -264,6 +266,7 @@ solve dsa que. in leetcode
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Number Theory
 |  |
 | ------- |
@@ -273,6 +276,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/Disha-Ravaliya/DSA/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Union-Find
@@ -344,4 +348,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
