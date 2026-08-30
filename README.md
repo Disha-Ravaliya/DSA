@@ -38,6 +38,7 @@ solve dsa que. in leetcode
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Disha-Ravaliya/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## String
 |  |
@@ -84,6 +85,7 @@ solve dsa que. in leetcode
 | [0752-open-the-lock](https://github.com/Disha-Ravaliya/DSA/tree/master/0752-open-the-lock) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ solve dsa que. in leetcode
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Disha-Ravaliya/DSA/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sliding Window
 |  |
 | ------- |
@@ -233,6 +236,7 @@ solve dsa que. in leetcode
 | [0239-sliding-window-maximum](https://github.com/Disha-Ravaliya/DSA/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -250,6 +254,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Disha-Ravaliya/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 ## Design
 |  |
@@ -310,6 +315,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Interactive
 |  |
 | ------- |
