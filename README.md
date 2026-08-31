@@ -23,6 +23,7 @@ solve dsa que. in leetcode
 | [0283-move-zeroes](https://github.com/Disha-Ravaliya/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/Disha-Ravaliya/DSA/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
