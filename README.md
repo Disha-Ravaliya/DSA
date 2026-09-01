@@ -67,6 +67,7 @@ solve dsa que. in leetcode
 | [1768-merge-strings-alternately](https://github.com/Disha-Ravaliya/DSA/tree/master/1768-merge-strings-alternately) |
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/Disha-Ravaliya/DSA/tree/master/3330-find-the-original-typed-string-i) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Disha-Ravaliya/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -88,6 +89,7 @@ solve dsa que. in leetcode
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Disha-Ravaliya/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -359,4 +361,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Counting
+|  |
+| ------- |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Disha-Ravaliya/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 <!---LeetCode Topics End-->
