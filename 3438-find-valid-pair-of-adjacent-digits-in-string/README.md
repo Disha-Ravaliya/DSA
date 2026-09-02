@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string">3736. Find Valid Pair of Adjacent Digits in String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting only of digits. A <strong>valid pair</strong> is defined as two <strong>adjacent</strong> digits in <code>s</code> such that:</p>
+<h2><a href="https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/description/">3736. Find Valid Pair of Adjacent Digits in String</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> consisting only of digits. A <strong>valid pair</strong> is defined as two <strong>adjacent</strong> digits in <code>s</code> such that:</p>
 
 <ul>
 	<li>The first digit is <strong>not equal</strong> to the second.</li>
