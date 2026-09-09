@@ -39,6 +39,7 @@ solve dsa que. in leetcode
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Disha-Ravaliya/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Disha-Ravaliya/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Disha-Ravaliya/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## String
@@ -206,6 +207,7 @@ solve dsa que. in leetcode
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Disha-Ravaliya/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Search Tree
 |  |
@@ -308,6 +310,7 @@ solve dsa que. in leetcode
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/Disha-Ravaliya/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Euclidean Algorithm
 |  |
 | ------- |
