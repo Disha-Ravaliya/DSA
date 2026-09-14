@@ -33,6 +33,7 @@ solve dsa que. in leetcode
 | [0994-rotting-oranges](https://github.com/Disha-Ravaliya/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Disha-Ravaliya/DSA/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Disha-Ravaliya/DSA/tree/master/1020-number-of-enclaves) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Disha-Ravaliya/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1046-last-stone-weight](https://github.com/Disha-Ravaliya/DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -282,6 +283,7 @@ solve dsa que. in leetcode
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Disha-Ravaliya/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/1143-longest-common-subsequence) |
 ## Number Theory
 |  |
@@ -378,4 +380,12 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/1143-longest-common-subsequence) |
+## Triangulation
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Disha-Ravaliya/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Polygons
+|  |
+| ------- |
+| [1039-minimum-score-triangulation-of-polygon](https://github.com/Disha-Ravaliya/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
 <!---LeetCode Topics End-->
