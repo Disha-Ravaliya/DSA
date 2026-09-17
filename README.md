@@ -155,6 +155,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Disha-Ravaliya/DSA/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
@@ -281,6 +282,7 @@ solve dsa que. in leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
@@ -354,6 +356,7 @@ solve dsa que. in leetcode
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 ## Heuristic Search
