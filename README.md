@@ -63,6 +63,7 @@ solve dsa que. in leetcode
 | [0433-minimum-genetic-mutation](https://github.com/Disha-Ravaliya/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0459-repeated-substring-pattern](https://github.com/Disha-Ravaliya/DSA/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0541-reverse-string-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/Disha-Ravaliya/DSA/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/Disha-Ravaliya/DSA/tree/master/0771-jewels-and-stones) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -286,6 +287,7 @@ solve dsa que. in leetcode
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Disha-Ravaliya/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -386,6 +388,7 @@ solve dsa que. in leetcode
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/1143-longest-common-subsequence) |
 ## Triangulation
 |  |
