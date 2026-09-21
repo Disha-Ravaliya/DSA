@@ -24,6 +24,7 @@ solve dsa que. in leetcode
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Disha-Ravaliya/DSA/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
@@ -286,6 +287,7 @@ solve dsa que. in leetcode
 | [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
@@ -398,4 +400,12 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Disha-Ravaliya/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
