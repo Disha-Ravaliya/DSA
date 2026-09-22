@@ -24,6 +24,7 @@ solve dsa que. in leetcode
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Disha-Ravaliya/DSA/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
@@ -160,6 +161,7 @@ solve dsa que. in leetcode
 | [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
+| [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Disha-Ravaliya/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -241,6 +243,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 ## Queue
 |  |
@@ -286,6 +289,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
@@ -408,4 +412,16 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
