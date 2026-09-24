@@ -23,6 +23,7 @@ solve dsa que. in leetcode
 | [0283-move-zeroes](https://github.com/Disha-Ravaliya/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/Disha-Ravaliya/DSA/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/Disha-Ravaliya/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
@@ -163,6 +164,7 @@ solve dsa que. in leetcode
 | [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
+| [0396-rotate-function](https://github.com/Disha-Ravaliya/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -292,6 +294,7 @@ solve dsa que. in leetcode
 | [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Disha-Ravaliya/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
