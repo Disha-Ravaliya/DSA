@@ -31,6 +31,7 @@ solve dsa que. in leetcode
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Disha-Ravaliya/DSA/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0752-open-the-lock](https://github.com/Disha-Ravaliya/DSA/tree/master/0752-open-the-lock) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0905-sort-array-by-parity](https://github.com/Disha-Ravaliya/DSA/tree/master/0905-sort-array-by-parity) |
@@ -302,6 +303,7 @@ solve dsa que. in leetcode
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/0583-delete-operation-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Disha-Ravaliya/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/Disha-Ravaliya/DSA/tree/master/1039-minimum-score-triangulation-of-polygon) |
