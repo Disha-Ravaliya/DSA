@@ -11,6 +11,7 @@ solve dsa que. in leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Disha-Ravaliya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Disha-Ravaliya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Disha-Ravaliya/DSA/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -294,6 +295,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Disha-Ravaliya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Disha-Ravaliya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/0392-is-subsequence) |
