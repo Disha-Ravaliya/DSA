@@ -10,6 +10,7 @@ solve dsa que. in leetcode
 | [0015-3sum](https://github.com/Disha-Ravaliya/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/Disha-Ravaliya/DSA/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Disha-Ravaliya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Disha-Ravaliya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -370,6 +371,7 @@ solve dsa que. in leetcode
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Disha-Ravaliya/DSA/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0216-combination-sum-iii) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
@@ -436,4 +438,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Disha-Ravaliya/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
