@@ -27,6 +27,7 @@ solve dsa que. in leetcode
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Disha-Ravaliya/DSA/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/Disha-Ravaliya/DSA/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/Disha-Ravaliya/DSA/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
@@ -301,6 +302,7 @@ solve dsa que. in leetcode
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Disha-Ravaliya/DSA/tree/master/0396-rotate-function) |
+| [0403-frog-jump](https://github.com/Disha-Ravaliya/DSA/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Disha-Ravaliya/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0518-coin-change-ii) |
