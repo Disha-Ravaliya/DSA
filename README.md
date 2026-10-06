@@ -51,6 +51,7 @@ solve dsa que. in leetcode
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Disha-Ravaliya/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2498-frog-jump-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/2498-frog-jump-ii) |
 ## String
 |  |
 | ------- |
@@ -161,6 +162,7 @@ solve dsa que. in leetcode
 | [0287-find-the-duplicate-number](https://github.com/Disha-Ravaliya/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Disha-Ravaliya/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Disha-Ravaliya/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [2498-frog-jump-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/2498-frog-jump-ii) |
 ## Math
 |  |
 | ------- |
@@ -358,6 +360,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2498-frog-jump-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/2498-frog-jump-ii) |
 ## Interactive
 |  |
 | ------- |
