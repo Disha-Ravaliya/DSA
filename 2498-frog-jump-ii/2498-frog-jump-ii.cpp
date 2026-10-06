@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxJump(vector<int>& stones) {
 
-        int ans = stones[1] - stones[0];
+        int ans = stones[1] - stones[0];// if only 2 size
 
         for(int i = 2; i < stones.size(); i++) {
 
