@@ -76,6 +76,7 @@ solve dsa que. in leetcode
 | [0583-delete-operation-for-two-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0752-open-the-lock](https://github.com/Disha-Ravaliya/DSA/tree/master/0752-open-the-lock) |
 | [0771-jewels-and-stones](https://github.com/Disha-Ravaliya/DSA/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
@@ -250,6 +251,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -359,6 +361,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/2498-frog-jump-ii) |
 ## Interactive
@@ -447,4 +450,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Disha-Ravaliya/DSA/tree/master/0051-n-queens) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
