@@ -67,6 +67,7 @@ solve dsa que. in leetcode
 | [0151-reverse-words-in-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Disha-Ravaliya/DSA/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Disha-Ravaliya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Disha-Ravaliya/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/0392-is-subsequence) |
@@ -217,6 +218,7 @@ solve dsa que. in leetcode
 | [0127-word-ladder](https://github.com/Disha-Ravaliya/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Disha-Ravaliya/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Disha-Ravaliya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Disha-Ravaliya/DSA/tree/master/0322-coin-change) |
 | [0433-minimum-genetic-mutation](https://github.com/Disha-Ravaliya/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/Disha-Ravaliya/DSA/tree/master/0542-01-matrix) |
@@ -382,6 +384,7 @@ solve dsa que. in leetcode
 | [0051-n-queens](https://github.com/Disha-Ravaliya/DSA/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/Disha-Ravaliya/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0773-sliding-puzzle](https://github.com/Disha-Ravaliya/DSA/tree/master/0773-sliding-puzzle) |
 ## Memoization
 |  |
