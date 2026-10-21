@@ -194,6 +194,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0113-path-sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Disha-Ravaliya/DSA/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Depth-First Search
@@ -201,6 +202,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Disha-Ravaliya/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Disha-Ravaliya/DSA/tree/master/0547-number-of-provinces) |
@@ -243,6 +245,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Disha-Ravaliya/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0113-path-sum-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0113-path-sum-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Linked List
 |  |
@@ -382,6 +385,7 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Disha-Ravaliya/DSA/tree/master/0051-n-queens) |
+| [0113-path-sum-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/Disha-Ravaliya/DSA/tree/master/0301-remove-invalid-parentheses) |
