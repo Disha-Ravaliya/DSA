@@ -15,6 +15,7 @@ solve dsa que. in leetcode
 | [0118-pascals-triangle](https://github.com/Disha-Ravaliya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Disha-Ravaliya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Disha-Ravaliya/DSA/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/Disha-Ravaliya/DSA/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Disha-Ravaliya/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Disha-Ravaliya/DSA/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Disha-Ravaliya/DSA/tree/master/0216-combination-sum-iii) |
@@ -368,6 +369,7 @@ solve dsa que. in leetcode
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Disha-Ravaliya/DSA/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
