@@ -11,6 +11,7 @@ solve dsa que. in leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Disha-Ravaliya/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Disha-Ravaliya/DSA/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Disha-Ravaliya/DSA/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Disha-Ravaliya/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Disha-Ravaliya/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Disha-Ravaliya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Disha-Ravaliya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -308,6 +309,7 @@ solve dsa que. in leetcode
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Disha-Ravaliya/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Disha-Ravaliya/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Disha-Ravaliya/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Disha-Ravaliya/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -369,6 +371,7 @@ solve dsa que. in leetcode
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Disha-Ravaliya/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Disha-Ravaliya/DSA/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
