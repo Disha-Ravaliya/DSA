@@ -81,6 +81,7 @@ solve dsa que. in leetcode
 | [0771-jewels-and-stones](https://github.com/Disha-Ravaliya/DSA/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Disha-Ravaliya/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Disha-Ravaliya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/Disha-Ravaliya/DSA/tree/master/1143-longest-common-subsequence) |
 | [1436-destination-city](https://github.com/Disha-Ravaliya/DSA/tree/master/1436-destination-city) |
 | [1446-consecutive-characters](https://github.com/Disha-Ravaliya/DSA/tree/master/1446-consecutive-characters) |
@@ -261,6 +262,7 @@ solve dsa que. in leetcode
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Disha-Ravaliya/DSA/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Disha-Ravaliya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Recursion
 |  |
 | ------- |
@@ -375,6 +377,7 @@ solve dsa que. in leetcode
 | [0134-gas-station](https://github.com/Disha-Ravaliya/DSA/tree/master/0134-gas-station) |
 | [0605-can-place-flowers](https://github.com/Disha-Ravaliya/DSA/tree/master/0605-can-place-flowers) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Disha-Ravaliya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/2498-frog-jump-ii) |
 ## Interactive
@@ -471,4 +474,8 @@ solve dsa que. in leetcode
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Disha-Ravaliya/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Disha-Ravaliya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
