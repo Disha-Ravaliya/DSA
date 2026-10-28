@@ -89,6 +89,7 @@ solve dsa que. in leetcode
 | [2810-faulty-keyboard](https://github.com/Disha-Ravaliya/DSA/tree/master/2810-faulty-keyboard) |
 | [3330-find-the-original-typed-string-i](https://github.com/Disha-Ravaliya/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Disha-Ravaliya/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [4026-maximum-gap-between-stations](https://github.com/Disha-Ravaliya/DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Trie
 |  |
 | ------- |
@@ -158,6 +159,7 @@ solve dsa que. in leetcode
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Disha-Ravaliya/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/Disha-Ravaliya/DSA/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/Disha-Ravaliya/DSA/tree/master/1768-merge-strings-alternately) |
+| [4026-maximum-gap-between-stations](https://github.com/Disha-Ravaliya/DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Binary Search
 |  |
 | ------- |
@@ -380,6 +382,7 @@ solve dsa que. in leetcode
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Disha-Ravaliya/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Disha-Ravaliya/DSA/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Disha-Ravaliya/DSA/tree/master/2498-frog-jump-ii) |
+| [4026-maximum-gap-between-stations](https://github.com/Disha-Ravaliya/DSA/tree/master/4026-maximum-gap-between-stations) |
 ## Interactive
 |  |
 | ------- |
